@@ -1,5 +1,7 @@
 <h1>Save Engine v1.0.0</h1>
 
+<code>npm i save-engine</code>
+
 <p>This save engine is based on "Roblox Save Engine" </p>
 
 <code>createDataStore(name,jsonObj)</code>
